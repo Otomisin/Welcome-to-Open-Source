@@ -62,7 +62,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://otomisin.github.io/Oreweb/index.html"> #NEW Line
+                <a href="https://otomisin.github.io/Oreweb/index.html">
                     <img src="https://avatars.githubusercontent.com/u/17680741?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
                     <sub><b>Oluwatosin Orenaike</b></sub>
